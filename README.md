@@ -9,16 +9,25 @@
 ---
 
 ### 🧠 About Me
-- 🎓 2nd-year BSc in Educational Technology & Engineering, **Gazipur Digital University**
+
+- 🎓 2nd-year BSc in Educational Technology & Engineering, **Bangladesh Digital University (Gazipur)**
 - 💡 Passionate about **AI in Education** and **real-time solutions** with Flutter
-- 💻 Learning: Flutter, Python, Machine Learning, NLP, Dart, TensorFlow
-- 🌱 Currently exploring: Kaggle Projects, Git, API integrations, and Emotion Recognition
+- 💻 Learning: Flutter, Python, Machine Learning, Deep Learning, NLP, LLMs, Dart, TensorFlow
+- 🌱 Exploring: Kaggle Projects, Git, API integrations, Emotion Recognition from Speech
 - 🌐 Bengali content creator on **mental health & inclusive education**
-- ✨ Always open to learning and collaboration!
+- ✨ Always open to learning, collaboration, and research opportunities!
 
 ---
 
-### 📈 Stats & GitHub Activity
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=punampaul&theme=darkhub&no-frame=true&margin-w=10&row=1&column=7" />
+</p>
+
+---
+
+### 📈 GitHub Stats & Contributions
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=punampaul&show_icons=true&theme=radical" width="48%" />
@@ -28,6 +37,7 @@
 ---
 
 ### 🛠️ Tech Stack
+
 <p>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -40,22 +50,25 @@
 
 ---
 
-### 📌 Currently working
-- 🎯 **Sanatan Dharma App** – Flutter app on Hinduism (deities, festivals, temples)
-- 🤖 **Emotion Detection from Speech** – ML with RAVDESS dataset
-- 🛒 **Eduverse Learning App** – Responsive UI, course features, and real-time progress
-- 📊 **Titanic EDA with Python** – Exploratory data analysis & pattern recognition
+### 📌 Currently Working On
+
+- 📱 **Sanatan Dharma App** – Flutter app exploring Hinduism (deities, festivals, temples)
+- 🤖 **Emotion Detection from Speech** – Machine Learning using the RAVDESS dataset
+- 🧑‍🏫 **Eduverse Learning App** – UI-rich learning app with progress tracking and badges
+- 📊 **Titanic Dataset EDA** – Data exploration and insights using Python
 
 ---
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/punampaul)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/punampaul.edu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:punampaul.et@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/punampaul)
+<p align="center">
+  <a href="https://www.linkedin.com/in/punam-paul-85a965340"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:punampaul.et@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.facebook.com/punam.paul.372"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://github.com/punampaul"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-> “Education is the most powerful weapon you can use to change the world.” – Nelson Mandela
-
+> _“Education is the most powerful weapon you can use to change the world.”_  
+> — Nelson Mandela
