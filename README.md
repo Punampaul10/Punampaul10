@@ -3,40 +3,68 @@
 <div align="center">
   <img src="https://i.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
   <h1>Hello, I'm Punam Paul 👋</h1>
-  <h3>🚀 Aspiring AI Engineer | 💡 Tech Enthusiast | 📚 EdTech Innovator</h3>
+  <h3>🚀 Aspiring AI Engineer | 💡 EdTech Innovator | 🔬 Research Enthusiast</h3>
 </div>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 🎓 2nd-year BSc in Educational Technology & Engineering, **Bangladesh Digital University (Gazipur)**
-- 💡 Passionate about **AI in Education** and **real-time solutions** with Flutter
-- 💻 Learning: Flutter, Python, Machine Learning, Deep Learning, NLP, LLMs, Dart, TensorFlow
-- 🌱 Exploring: Kaggle Projects, Git, API integrations, Emotion Recognition from Speech
-- 🌐 Bengali content creator on **mental health & inclusive education**
-- ✨ Always open to learning, collaboration, and research opportunities!
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=punampaul&theme=darkhub&no-frame=true&margin-w=10&row=1&column=7" />
-</p>
+- 🎓 3rd-year BSc student in **Educational Technology & Engineering** at **University Of Frontier Technology,Bangladesh**
+- 🤖 Aspiring **AI Engineer** focused on **Machine Learning, Deep Learning, NLP, and LLMs**
+- 📱 Flutter developer building **real-time, user-centric educational apps**
+- 🔬 Passionate about **AI in Education**, **Mental Health–aware systems**, and **Inclusive Learning**
+- 📊 Hands-on experience with **Kaggle projects, data analysis, feature engineering, and model building**
+- 🧪 Exploring **Speech Emotion Recognition**, **Explainable AI (XAI)**, and **Federated Learning**
+- 🌐 Bengali content creator on **mental health & education awareness**
+- ✨ Always open to learning, collaboration, and research opportunities
 
 ---
 
-### 📈 GitHub Stats & Contributions
+## 🎯 Vision & Career Goal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=punampaul&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=punampaul&theme=radical&hide_border=false" width="48%" />
-</p>
+- 🌍 Become a **Research-Oriented AI Engineer** focusing on **Education, Mental Health, and Social Impact**
+- 🧠 Build AI systems that are **ethical, explainable, inclusive, and privacy-preserving**
+- 🎓 Long-term goal: Higher studies & research in **AI + Learning Sciences**
+- 💡 I believe technology should **empower learners**, not overwhelm them
 
 ---
 
-### 🛠️ Tech Stack
+## 🔬 Research Interests
+
+- 🤖 Machine Learning & Deep Learning
+- 🧠 AI in Education (Personalized Learning, Adaptive Systems)
+- 🗣️ Speech Emotion Recognition
+- 🩺 Mental Health–aware AI Systems
+- 🔍 Explainable AI (XAI)
+- 🔐 Federated Learning & Data Privacy
+- 🧬 Multimodal Learning Systems
+
+---
+
+## 🧪 What I Love Working On
+
+- 📱 Flutter apps with real-world use cases
+- 📊 Data analysis 
+- 🧠 Model training, evaluation & optimization
+- 📝 Research writing & structuring
+- 🎨 UI/UX for learning platforms
+
+---
+
+## 🚀 Learning Philosophy
+
+> I don’t just learn tools — I learn **why**, **how**, and **where** to use them.
+
+- 📌 Strong fundamentals first  
+- 🧩 Break complex systems into simple logic  
+- 🧠 Learn by building  
+- 🔁 Iterate, fail, improve  
+- ✍️ Document everything  
+
+---
+
+## 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -50,16 +78,35 @@
 
 ---
 
-### 📌 Currently Working On
+## 📌 Currently Working On
 
 - 📱 **Sanatan Dharma App** – Flutter app exploring Hinduism (deities, festivals, temples)
-- 🤖 **Emotion Detection from Speech** – Machine Learning using the RAVDESS dataset
-- 🧑‍🏫 **Eduverse Learning App** – UI-rich learning app with progress tracking and badges
-- 📊 **Titanic Dataset EDA** – Data exploration and insights using Python
+- 🤖 **Emotion Detection from Speech** – ML project using RAVDESS dataset
+- 🧑‍🏫 **Eduverse Learning App** – Gamified learning app with progress tracking
+- 📊 **Titanic Dataset EDA** – Python-based data analysis
+- **Shurokka App**- flutter based women safety app
+- **Medikit**- Medical Health Assistant website 
 
 ---
 
-### 📫 Connect With Me
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=punampaul&theme=darkhub&no-frame=true&margin-w=10&row=1&column=7" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=punampaul&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=punampaul&theme=radical" width="48%" />
+</p>
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/punam-paul-85a965340"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
